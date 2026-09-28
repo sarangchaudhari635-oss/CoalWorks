@@ -1,5 +1,6 @@
 
 
+
 https://github.com/user-attachments/assets/7a2e3b81-b254-43a4-9c17-493ed9443309
 
 
@@ -108,8 +109,8 @@ mesh.onReceive([](uint32_t from, String &msg) {
 * Mesh nodes should be within Wi-Fi range of each other for stable communication...
 
 ![V1 vs Final build](https://github.com/user-attachments/assets/941f9480-91ca-4d69-a68e-0655f4d638ec)
+[brochure-sih-2.1.pdf_compressed.pdf](https://github.com/user-attachments/files/32757396/brochure-sih-2.1.pdf_compressed.pdf)
 
-[brochure-sih-2 (1).pdf](https://github.com/user-attachments/files/20841769/brochure-sih-2.1.pdf)
 
 ...
 ---
